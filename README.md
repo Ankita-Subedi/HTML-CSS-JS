@@ -1,7 +1,7 @@
 # Projects using just HTML CSS and JavaScript
 
 ## Technologies Used
-This project is built using the following technologies:
+These projects are built using the following technologies:
 - HTML
 - CSS
 - JavaScript
