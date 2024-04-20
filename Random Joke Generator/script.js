@@ -8,10 +8,6 @@ let getJoke = () => {
         .then(item =>{
             jokeContainer.textContent = `${item.joke}`;
             jokeContainer.style.opacity = '1';
-            setTimeout(()=>{
-                jokeContainer.classList.remove("fade");
-            },3000)
         });
 }
 btn.addEventListener("click",getJoke)
-getJoke();

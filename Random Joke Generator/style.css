@@ -39,6 +39,7 @@ span{
 #Joke{
     font-size: 18px;
     align-self: center;
+    opacity: 0;
 }
 
 #btn{
