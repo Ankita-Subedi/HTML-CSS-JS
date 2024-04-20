@@ -19,7 +19,29 @@ body{
     height: 100vh;
 }
 
+.box{
+    width: 40%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 26px;
+    border-radius: 8px;
+}
+
 .inputs{
     display: flex;
-    
+    gap: 9px;
+    font-size: 22px;
+    padding: 16px 0;
+}
+
+.btn{
+    margin-top: 16px;
+    padding: 8px 0;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 8px;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
 }
