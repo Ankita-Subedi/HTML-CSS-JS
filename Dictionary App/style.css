@@ -92,3 +92,7 @@ body{
     border-left: 4px solid rgb(184, 123, 240);
     padding-left: 16px;
 }
+
+#inp-word{
+    outline: none;
+}
